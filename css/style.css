@@ -1,0 +1,11 @@
+body{
+	font-family: 'Poppins', sans-serif;
+}
+.btn-primary{
+	 background-color: #27AE60;
+	 border-color: #27AE60;
+}
+.btn-primary:hover{
+	background-color: #186637;
+	border-color: #186637;
+}
